@@ -1,3 +1,7 @@
+code {
+	font-family: "JetBrains Mono", monospace;
+}
+
 body {
 	background: #252526;
 	padding: 20px 50px;
@@ -44,7 +48,7 @@ textarea {
 	width: 100%;
 	border: 0px;
 	outline: none;
-	font-size: 13px;
+	font-size: 16px;
   overflow: inherit;
 }
 
